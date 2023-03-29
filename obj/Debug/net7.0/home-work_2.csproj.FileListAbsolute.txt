@@ -1,0 +1,15 @@
+D:\Users\terekhpg\Documents\GitHub\home-work_2\bin\Debug\net7.0\home-work_2.exe
+D:\Users\terekhpg\Documents\GitHub\home-work_2\bin\Debug\net7.0\home-work_2.deps.json
+D:\Users\terekhpg\Documents\GitHub\home-work_2\bin\Debug\net7.0\home-work_2.runtimeconfig.json
+D:\Users\terekhpg\Documents\GitHub\home-work_2\bin\Debug\net7.0\home-work_2.dll
+D:\Users\terekhpg\Documents\GitHub\home-work_2\bin\Debug\net7.0\home-work_2.pdb
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\home-work_2.csproj.AssemblyReference.cache
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\home-work_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\home-work_2.AssemblyInfoInputs.cache
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\home-work_2.AssemblyInfo.cs
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\home-work_2.csproj.CoreCompileInputs.cache
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\home-work_2.dll
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\refint\home-work_2.dll
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\home-work_2.pdb
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\home-work_2.genruntimeconfig.cache
+D:\Users\terekhpg\Documents\GitHub\home-work_2\obj\Debug\net7.0\ref\home-work_2.dll
